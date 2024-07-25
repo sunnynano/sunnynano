@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently studying **Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://sunnyguan.netlify.app](https://sunnyguan.netlify.app)
+- 👨‍💻 All of my projects are available at [https://sguan.netlify.app](https://sguan.netlify.app)
 
 - 📄 Know about my experiences [https://sunnyguan.netlify.app/files/Feiyang%20(Sunny)%20Guan-Resume.pdf](<https://sunnyguan.netlify.app/files/Feiyang%20(Sunny)%20Guan-Resume.pdf>)
 
